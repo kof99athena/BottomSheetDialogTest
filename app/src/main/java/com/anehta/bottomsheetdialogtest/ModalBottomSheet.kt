@@ -19,6 +19,7 @@ class ModalBottomSheet : BottomSheetDialogFragment() {
 
     private lateinit var binding : ModalBottomSheetContentBinding
 
+    //
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
